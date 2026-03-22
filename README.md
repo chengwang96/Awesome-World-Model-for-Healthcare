@@ -1,11 +1,11 @@
 <h1 align="center">
-  <strong>Awesome-World-Model-for-Healthcare</strong>
+  <strong>Awesome-World-Models-for-Healthcare</strong>
 </h1>
 
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/chengwang96/Awesome-World-Model-for-Healthcare?style=social)](https://github.com/chengwang96/Awesome-World-Model-for-Healthcare)
+[![GitHub stars](https://img.shields.io/github/stars/chengwang96/Awesome-World-Models-for-Healthcare?style=social)](https://github.com/chengwang96/Awesome-World-Models-for-Healthcare)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](#-contributing)
 
 A curated list of papers and open-source resources on **world models for healthcare**, including **medical imaging**, **longitudinal EHR modeling**, **clinical prediction**, **counterfactual reasoning**, **treatment planning**, and **surgical simulation**.
@@ -38,8 +38,23 @@ A curated list of papers and open-source resources on **world models for healthc
 
 ### 2026
 
+- (*arXiv'26*) **EyeWorld: A Generative World Model of Ocular State and Dynamics**
+  [[📝 Paper](https://arxiv.org/abs/2603.14039)]
+
+- (*arXiv'26*) **SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**
+  [[📝 Paper](https://arxiv.org/abs/2603.13024)]
+
+- (*CVPR'26*) **X-WIN: Building Chest Radiograph World Model via Predictive Sensing**
+  [[📝 Paper](https://arxiv.org/abs/2511.14918)]
+
+- (*arXiv'26*) **Brain-WM: Brain Glioblastoma World Model**
+  [[📝 Paper](https://arxiv.org/abs/2603.07562)] [[💻 Code](https://github.com/thibault-wch/Brain-GBM-world-model)]
+
 - (*CVPR'26*) **MRI Contrast Enhancement Kinetics World Model**
   [[📝 Paper](https://arxiv.org/abs/2602.19285)] [[💻 Code](https://github.com/DD0922/MRI-Contrast-Enhancement-Kinetics-World-Model)]
+
+- (*medRxiv'26*) **MedOS: AI-XR-Cobot World Model for Clinical Perception and Action**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.02.18.26345936v1)]
 
 - (*arXiv'26*) **EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories**
   [[📝 Paper](https://arxiv.org/abs/2602.03569)]
@@ -49,14 +64,23 @@ A curated list of papers and open-source resources on **world models for healthc
 
 ### 2025
 
+- (*arXiv'25*) **Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling**
+  [[📝 Paper](https://arxiv.org/abs/2512.23162)] [[💻 Code](https://huggingface.co/nvidia/Cosmos-H-Surgical-Simulator)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-cookbook)]
+
 - (*arXiv'25*) **CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space**
   [[📝 Paper](https://arxiv.org/abs/2512.08029)]
+
+- (*MICCAI'25*) **World Model for AI Autonomous Navigation in Mechanical Thrombectomy**
+  [[📝 Paper](https://arxiv.org/abs/2509.25518)]
 
 - (*ICCV'25*) **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning**
   [[📝 Paper](https://arxiv.org/abs/2506.02327)] [[💻 Code](https://github.com/scott-yjyang/MeWM)] [[🌐 Project](https://yijun-yang.github.io/MeWM/)]
 
 - (*CVPR'25*) **CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**
   [[📝 Paper](https://arxiv.org/abs/2504.13820)] [[💻 Code](https://github.com/LeapLabTHU/CheXWorld)]
+
+- (*CVPR'25*) **EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance**
+  [[📝 Paper](https://arxiv.org/abs/2504.13065)]
 
 - (*MICCAI Workshop'25*) **Surgical Vision World Model**
   [[📝 Paper](https://arxiv.org/abs/2503.02904)] [[💻 Code](https://github.com/bhattarailab/Surgical-Vision-World-Model)]
@@ -75,6 +99,15 @@ A curated list of papers and open-source resources on **world models for healthc
 
 ### Medical Imaging and Radiology
 
+- (*arXiv'26*) **EyeWorld: A Generative World Model of Ocular State and Dynamics**
+  [[📝 Paper](https://arxiv.org/abs/2603.14039)]
+
+- (*CVPR'26*) **X-WIN: Building Chest Radiograph World Model via Predictive Sensing**
+  [[📝 Paper](https://arxiv.org/abs/2511.14918)]
+
+- (*arXiv'26*) **Brain-WM: Brain Glioblastoma World Model**
+  [[📝 Paper](https://arxiv.org/abs/2603.07562)] [[💻 Code](https://github.com/thibault-wch/Brain-GBM-world-model)]
+
 - (*CVPR'26*) **MRI Contrast Enhancement Kinetics World Model**
   [[📝 Paper](https://arxiv.org/abs/2602.19285)] [[💻 Code](https://github.com/DD0922/MRI-Contrast-Enhancement-Kinetics-World-Model)]
 
@@ -84,10 +117,16 @@ A curated list of papers and open-source resources on **world models for healthc
 - (*CVPR'25*) **CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**
   [[📝 Paper](https://arxiv.org/abs/2504.13820)] [[💻 Code](https://github.com/LeapLabTHU/CheXWorld)]
 
+- (*CVPR'25*) **EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance**
+  [[📝 Paper](https://arxiv.org/abs/2504.13065)]
+
 - (*arXiv'25*) **CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space**
   [[📝 Paper](https://arxiv.org/abs/2512.08029)]
 
 ### Longitudinal EHR and Clinical Trajectories
+
+- (*medRxiv'26*) **MedOS: AI-XR-Cobot World Model for Clinical Perception and Action**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.02.18.26345936v1)]
 
 - (*arXiv'26*) **EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories**
   [[📝 Paper](https://arxiv.org/abs/2602.03569)]
@@ -96,6 +135,12 @@ A curated list of papers and open-source resources on **world models for healthc
   [[📝 Paper](https://arxiv.org/abs/2601.22128)]
 
 ### Treatment Planning and Clinical Decision Support
+
+- (*arXiv'26*) **Brain-WM: Brain Glioblastoma World Model**
+  [[📝 Paper](https://arxiv.org/abs/2603.07562)] [[💻 Code](https://github.com/thibault-wch/Brain-GBM-world-model)]
+
+- (*MICCAI'25*) **World Model for AI Autonomous Navigation in Mechanical Thrombectomy**
+  [[📝 Paper](https://arxiv.org/abs/2509.25518)]
 
 - (*ICCV'25*) **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning**
   [[📝 Paper](https://arxiv.org/abs/2506.02327)] [[💻 Code](https://github.com/scott-yjyang/MeWM)] [[🌐 Project](https://yijun-yang.github.io/MeWM/)]
@@ -108,6 +153,18 @@ A curated list of papers and open-source resources on **world models for healthc
 
 ### Surgical Simulation and Embodied Healthcare
 
+- (*arXiv'26*) **SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**
+  [[📝 Paper](https://arxiv.org/abs/2603.13024)]
+
+- (*medRxiv'26*) **MedOS: AI-XR-Cobot World Model for Clinical Perception and Action**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.02.18.26345936v1)]
+
+- (*arXiv'25*) **Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling**
+  [[📝 Paper](https://arxiv.org/abs/2512.23162)] [[💻 Code](https://huggingface.co/nvidia/Cosmos-H-Surgical-Simulator)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-cookbook)]
+
+- (*MICCAI'25*) **World Model for AI Autonomous Navigation in Mechanical Thrombectomy**
+  [[📝 Paper](https://arxiv.org/abs/2509.25518)]
+
 - (*MICCAI Workshop'25*) **Surgical Vision World Model**
   [[📝 Paper](https://arxiv.org/abs/2503.02904)] [[💻 Code](https://github.com/bhattarailab/Surgical-Vision-World-Model)]
 
@@ -115,24 +172,24 @@ A curated list of papers and open-source resources on **world models for healthc
 
 ## 🔗 Related Repositories
 
-- **leofan90/Awesome-World-Models**
-  [[💻 Repository](https://github.com/leofan90/Awesome-World-Models)]
-
-- **knightnemo/Awesome-World-Models**
-  [[💻 Repository](https://github.com/knightnemo/Awesome-World-Models)]
-
 - **Awesome-Self-Evolving-AI-for-Agentic-Healthcare**
   [[💻 Repository](https://github.com/ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare)]
+
+- **Awesome-AI-Agents-for-Healthcare**
+  [[💻 Repository](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)]
+
+- **Awesome-Self-Evolving-Agents**
+  [[💻 Repository](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
 
 ---
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=chengwang96%2FAwesome-World-Model-for-Healthcare&type=date&logscale=&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=chengwang96%2FAwesome-World-Models-for-Healthcare&type=date&logscale=&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=chengwang96/Awesome-World-Model-for-Healthcare&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=chengwang96/Awesome-World-Model-for-Healthcare&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=chengwang96/Awesome-World-Model-for-Healthcare&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=chengwang96/Awesome-World-Models-for-Healthcare&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=chengwang96/Awesome-World-Models-for-Healthcare&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=chengwang96/Awesome-World-Models-for-Healthcare&type=date&legend=bottom-right" />
  </picture>
 </a>
 
