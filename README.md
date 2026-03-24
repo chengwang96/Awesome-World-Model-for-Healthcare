@@ -44,6 +44,9 @@ A curated list of papers and open-source resources on **world models for healthc
 - (*arXiv'26*) **SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**
   [[📝 Paper](https://arxiv.org/abs/2603.13024)]
 
+- (*ICLR'26 Rejected*) **Unified Surgical World Model for Structured Understanding, Long-Horizon Prediction, and Fine-Grained Generation**
+  [[📝 Paper](https://openreview.net/forum?id=Kk9t5empEf)]
+
 - (*CVPR'26*) **X-WIN: Building Chest Radiograph World Model via Predictive Sensing**
   [[📝 Paper](https://arxiv.org/abs/2511.14918)]
 
@@ -72,6 +75,9 @@ A curated list of papers and open-source resources on **world models for healthc
 
 - (*MICCAI'25*) **World Model for AI Autonomous Navigation in Mechanical Thrombectomy**
   [[📝 Paper](https://arxiv.org/abs/2509.25518)]
+
+- (*arXiv'25*) **Generative Medical Event Models Improve with Scale (CoMET)**
+  [[📝 Paper](https://arxiv.org/abs/2508.12104)]
 
 - (*ICCV'25*) **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning**
   [[📝 Paper](https://arxiv.org/abs/2506.02327)] [[💻 Code](https://github.com/scott-yjyang/MeWM)] [[🌐 Project](https://yijun-yang.github.io/MeWM/)]
@@ -134,6 +140,9 @@ A curated list of papers and open-source resources on **world models for healthc
 - (*arXiv'26*) **The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR**
   [[📝 Paper](https://arxiv.org/abs/2601.22128)]
 
+- (*arXiv'25*) **Generative Medical Event Models Improve with Scale (CoMET)**
+  [[📝 Paper](https://arxiv.org/abs/2508.12104)]
+
 ### Treatment Planning and Clinical Decision Support
 
 - (*arXiv'26*) **Brain-WM: Brain Glioblastoma World Model**
@@ -155,6 +164,9 @@ A curated list of papers and open-source resources on **world models for healthc
 
 - (*arXiv'26*) **SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**
   [[📝 Paper](https://arxiv.org/abs/2603.13024)]
+
+- (*ICLR'26 Rejected*) **Unified Surgical World Model for Structured Understanding, Long-Horizon Prediction, and Fine-Grained Generation**
+  [[📝 Paper](https://openreview.net/forum?id=Kk9t5empEf)]
 
 - (*medRxiv'26*) **MedOS: AI-XR-Cobot World Model for Clinical Perception and Action**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.02.18.26345936v1)]
