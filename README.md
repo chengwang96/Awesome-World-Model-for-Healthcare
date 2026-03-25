@@ -53,6 +53,9 @@ A curated list of papers and open-source resources on **world models for healthc
 - (*arXiv'26*) **Brain-WM: Brain Glioblastoma World Model**
   [[📝 Paper](https://arxiv.org/abs/2603.07562)] [[💻 Code](https://github.com/thibault-wch/Brain-GBM-world-model)]
 
+- (*bioRxiv'26*) **Towards building a World Model to simulate perturbation-induced cellular dynamics by AlphaCell**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.03.02.709176v1)]
+
 - (*CVPR'26*) **MRI Contrast Enhancement Kinetics World Model**
   [[📝 Paper](https://arxiv.org/abs/2602.19285)] [[💻 Code](https://github.com/DD0922/MRI-Contrast-Enhancement-Kinetics-World-Model)]
 
@@ -73,11 +76,17 @@ A curated list of papers and open-source resources on **world models for healthc
 - (*arXiv'25*) **CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space**
   [[📝 Paper](https://arxiv.org/abs/2512.08029)]
 
+- (*arXiv'25*) **How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**
+  [[📝 Paper](https://arxiv.org/abs/2511.01775)]
+
 - (*MICCAI'25*) **World Model for AI Autonomous Navigation in Mechanical Thrombectomy**
   [[📝 Paper](https://arxiv.org/abs/2509.25518)]
 
 - (*arXiv'25*) **Generative Medical Event Models Improve with Scale (CoMET)**
   [[📝 Paper](https://arxiv.org/abs/2508.12104)]
+
+- (*arXiv'25*) **Visuomotor Grasping with World Models for Surgical Robots**
+  [[📝 Paper](https://arxiv.org/abs/2508.11200)]
 
 - (*ICCV'25*) **Medical World Model: Generative Simulation of Tumor Evolution for Treatment Planning**
   [[📝 Paper](https://arxiv.org/abs/2506.02327)] [[💻 Code](https://github.com/scott-yjyang/MeWM)] [[🌐 Project](https://yijun-yang.github.io/MeWM/)]
@@ -129,6 +138,11 @@ A curated list of papers and open-source resources on **world models for healthc
 - (*arXiv'25*) **CLARITY: Medical World Model for Guiding Treatment Decisions by Modeling Context-Aware Disease Trajectories in Latent Space**
   [[📝 Paper](https://arxiv.org/abs/2512.08029)]
 
+### Computational Biology and Cellular Dynamics
+
+- (*bioRxiv'26*) **Towards building a World Model to simulate perturbation-induced cellular dynamics by AlphaCell**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.03.02.709176v1)]
+
 ### Longitudinal EHR and Clinical Trajectories
 
 - (*medRxiv'26*) **MedOS: AI-XR-Cobot World Model for Clinical Perception and Action**
@@ -174,8 +188,14 @@ A curated list of papers and open-source resources on **world models for healthc
 - (*arXiv'25*) **Cosmos-H-Surgical: Learning Surgical Robot Policies from Videos via World Modeling**
   [[📝 Paper](https://arxiv.org/abs/2512.23162)] [[💻 Code](https://huggingface.co/nvidia/Cosmos-H-Surgical-Simulator)] [[💻 Code](https://github.com/nvidia-cosmos/cosmos-cookbook)]
 
+- (*arXiv'25*) **How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**
+  [[📝 Paper](https://arxiv.org/abs/2511.01775)]
+
 - (*MICCAI'25*) **World Model for AI Autonomous Navigation in Mechanical Thrombectomy**
   [[📝 Paper](https://arxiv.org/abs/2509.25518)]
+
+- (*arXiv'25*) **Visuomotor Grasping with World Models for Surgical Robots**
+  [[📝 Paper](https://arxiv.org/abs/2508.11200)]
 
 - (*MICCAI Workshop'25*) **Surgical Vision World Model**
   [[📝 Paper](https://arxiv.org/abs/2503.02904)] [[💻 Code](https://github.com/bhattarailab/Surgical-Vision-World-Model)]
@@ -187,11 +207,11 @@ A curated list of papers and open-source resources on **world models for healthc
 - **Awesome-Self-Evolving-AI-for-Agentic-Healthcare**
   [[💻 Repository](https://github.com/ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare)]
 
-- **Awesome-AI-Agents-for-Healthcare**
-  [[💻 Repository](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare)]
+- **knightnemo/Awesome-World-Models**
+  [[💻 Repository](https://github.com/knightnemo/Awesome-World-Models)]
 
-- **Awesome-Self-Evolving-Agents**
-  [[💻 Repository](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
+- **LMD0311/Awesome-World-Model**
+  [[💻 Repository](https://github.com/LMD0311/Awesome-World-Model)]
 
 ---
 
